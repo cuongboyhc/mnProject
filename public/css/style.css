@@ -1,0 +1,31 @@
+body {
+    font-size: 14px;
+    font-family: arial;
+    line-height: 23px;
+}
+
+#wrapper {
+    width: 800px;
+    margin: 0px auto;
+}
+
+p.title {
+    text-align: center;
+    display: block;
+    margin: 0px auto;
+}
+
+p.item-title {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+button.submit {
+    margin: 50px auto 20px auto;
+    display: block;
+}
+
+p.error {
+    color: red;
+    font-weight: bold;
+}
